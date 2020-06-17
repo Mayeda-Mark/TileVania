@@ -1,23 +1,19 @@
 fileFormatVersion: 2
-guid: 3b5a17cddf35e24469182eb889b766b6
+guid: 9c8dded20b9f7714b8ce184aed213a64
 TextureImporter:
   fileIDToRecycleName:
-    21300000: SPA_Background brown tint_0
-    21300002: SPA_Background brown tint_1
-    21300004: SPA_Background brown tint_2
-    21300006: SPA_Background brown tint_3
-    21300008: SPA_Background brown tint_4
-    21300010: SPA_Background brown tint_5
-    21300012: SPA_Background brown tint_6
-    21300014: SPA_Background brown tint_7
-    21300016: SPA_Background brown tint_8
-    21300018: SPA_Background brown tint_9
-    21300020: SPA_Background brown tint_10
-    21300022: SPA_Background brown tint_11
-    21300024: SPA_Background brown tint_12
-    21300026: SPA_Background brown tint_13
-    21300028: SPA_Background brown tint_14
-    21300030: SPA_Background brown tint_15
+    21300000: Coins_0
+    21300002: Coins_1
+    21300004: Coins_2
+    21300006: Coins_3
+    21300008: Coins_4
+    21300010: Coins_5
+    21300012: Coins_6
+    21300014: Coins_7
+    21300016: Coins_8
+    21300018: Coins_9
+    21300020: Coins_10
+    21300022: Coins_11
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -100,11 +96,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPA_Background brown tint_0
+      name: Coins_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -114,17 +110,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ccabf53a3d5fe243a653ced8fab530f
+      spriteID: bacd5a59432ad3c429dd963c73f75033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_1
+      name: Coins_1
       rect:
         serializedVersion: 2
         x: 38
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -134,17 +130,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10f2e953e5249684da78f925e85c23c4
+      spriteID: 240a12ca4d0db124eb1cba9b21db335c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_2
+      name: Coins_2
       rect:
         serializedVersion: 2
         x: 76
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -154,17 +150,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d76f26db8e667094e8441227beebf5ca
+      spriteID: 658b10d1d17b90542988150287de7f67
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_3
+      name: Coins_3
       rect:
         serializedVersion: 2
         x: 114
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -174,17 +170,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b079ba0b3107b7a499b8ff007ba0586a
+      spriteID: 55de0115569677745b31e153050087a5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_4
+      name: Coins_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 78
+        x: 152
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -194,17 +190,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03c9c2ebcf1eb5249894aae7813d1744
+      spriteID: 5340206892fda1d4a98bbbfe15690ad4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_5
+      name: Coins_5
       rect:
         serializedVersion: 2
-        x: 38
-        y: 78
+        x: 190
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -214,17 +210,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7da251b530967584ca13327aa10436d8
+      spriteID: 65df7c5db9a562d4685e9fa5d90c872d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_6
+      name: Coins_6
       rect:
         serializedVersion: 2
-        x: 76
-        y: 78
+        x: 228
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -234,17 +230,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 040fd0fc9f82a114bbd5347b04f4e8e3
+      spriteID: cafc6a150253d5241b16f3c4c9dd61a8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_7
+      name: Coins_7
       rect:
         serializedVersion: 2
-        x: 114
-        y: 78
+        x: 266
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -254,17 +250,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c442f2aeb3e2a1c478f0d6f714132066
+      spriteID: 9e7efa0bdf810904badb7b5c89e158d6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_8
+      name: Coins_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 40
+        x: 304
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -274,17 +270,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb673507f440fde459c02978d3e7cc8f
+      spriteID: b5d54b4b79cdabd44bde3a79ffc114f2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_9
+      name: Coins_9
       rect:
         serializedVersion: 2
-        x: 38
-        y: 40
+        x: 342
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -294,17 +290,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a551add231b69f499e3f85c6f0590a7
+      spriteID: 8352cdd1a22871642a3c5d92e3d0b937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_10
+      name: Coins_10
       rect:
         serializedVersion: 2
-        x: 76
-        y: 40
+        x: 380
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -314,17 +310,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7671a4bbf8cbcc44b81e39901e113994
+      spriteID: c89a4aec318bf3641b8232a48ed34375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_11
+      name: Coins_11
       rect:
         serializedVersion: 2
-        x: 114
-        y: 40
+        x: 418
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -334,87 +330,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16142c844e5344e449182d2676154db4
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62c66bac50b91734a941e32fb351d096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_13
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e587a0da6f61000419f51332cf8e7aa2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_14
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88e5db6deb5fc8442be12cf961a1cf76
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_15
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c65a14c35940f604da14458f286b91e2
+      spriteID: 3c8c241f495589440999ed34c9d2908b
       vertices: []
       indices: 
       edges: []
@@ -422,7 +338,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 80cfae1b078321a4d879e63f05c175fe
+    spriteID: ea4d8e08514f1c449ab916d1235b609f
     vertices: []
     indices: 
     edges: []

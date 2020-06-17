@@ -16,6 +16,7 @@ public class Player : MonoBehaviour {
 	Animator myAnimator;
 	CapsuleCollider2D myBodyCollider;
 	BoxCollider2D myFeet;
+	GameSession gameSession;
 	float playerGravity;
 	
 	void Start () {
@@ -24,6 +25,7 @@ public class Player : MonoBehaviour {
 		myAnimator = GetComponent<Animator>();
 		myBodyCollider = GetComponent<CapsuleCollider2D>();
 		playerGravity = myRigidBody.gravityScale;
+		gameSession = FindObjectOfType<GameSession>();
 	}
 	
 	void Update () {
@@ -75,6 +77,7 @@ public class Player : MonoBehaviour {
 			myRigidBody.velocity = DeathVelocity;
 			myAnimator.SetBool("hasDied", true);
 			isAlive = false;
+			gameSession.ProcessPlayerDeath();
 		}
 	}
 }
